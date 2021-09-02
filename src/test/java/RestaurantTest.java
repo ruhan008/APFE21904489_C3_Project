@@ -74,5 +74,5 @@ class RestaurantTest {
 		assertEquals(388, restaurant.getBillAmountForOrder(items));
 	}
 	
-	// <<<<<<<<<<<<<<<<<<<<<<<<ORDER>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	// <<<<<<<<<<<<<<<<<<<<<<<<ORDER>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 }
